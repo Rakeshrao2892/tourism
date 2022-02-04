@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-main-container {
+    background-color: #03174c;
+    height: 130vh;
+
+}
+
+.bg-firstpage-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 57vh;
+    background-size: cover;
+    padding: 30px;
+    text-align: center;
+}
+
+.sleep-heading {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Bree Serif";
+    font-weight: 500;
+}
+
+.sleep-text {
+    color: #98a1bd;
+    font-size: 14px;
+    font-family: "Bree Serif";
+    font-weight: 500;
+}
+
+.nightisland-space {
+    padding: 30px;
+    text-align: center;
+}
+
+.nightisland-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 30vh;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+
+.nightisland-text {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 30px;
+    padding: 50px;
+}
+
+.nonstop-text {
+    color: #98a1bd;
+    font-family: "bree Serif";
+    font-size: 14px;
+    text-align: center;
+    padding: 5px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    font-family: "bree Serif";
+    font-size: 14px;
+    font-weight: 500;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    border-width: 0px;
+}
+
+.island-details-container {
+    background-color: #03174c;
+}
+
+
+.top-image-properties {
+    height: 50vh;
+    width: 96vw;
+}
+
+.second-text-container {
+    padding: 20px;
+}
+
+.second-card-head-details {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 30px;
+}
+
+.second-card-para-details {
+    color: #98a1bd;
+    font-family: "bree Serif";
+    font-size: 14px;
+}
+
+.number-text {
+    color: #98a1bd;
+    font-family: "bree Serif";
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.related-text {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.mooncloud-image {
+    height: 100px;
+    width: 140px;
+    margin-right: 10px;
+}
+
+.mooncloud-text {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 16px;
+}
+
+.mooncloud-number {
+    color: #98a1bd;
+    font-family: "bree Serif";
+    font-size: 14px;
+    font-weight: 400;
+}
